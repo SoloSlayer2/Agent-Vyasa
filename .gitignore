@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Redis dump
+dump.rdb
+
+# PostgreSQL artifacts
+*.sqlite3
+
+# Environment and credentials
+.env
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Ollama
+.ollama/
+
+# Misc
+*.bak
